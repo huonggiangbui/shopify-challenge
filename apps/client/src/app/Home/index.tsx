@@ -50,7 +50,7 @@ export function Home() {
         <div id="welcome">
           <h1>
             <span> Hello there, </span>
-            Welcome to Astronomy of The Day 👋
+            Welcome to Astronomy Picture of The Day 👋
           </h1>
         </div>
 

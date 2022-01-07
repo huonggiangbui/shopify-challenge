@@ -17,8 +17,7 @@ body {
 
 h1,
 h2,
-p,
-pre {
+p {
   margin: 0;
 }
 
@@ -42,29 +41,11 @@ a {
   text-decoration: inherit;
 }
 
-pre {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
-    'Liberation Mono', 'Courier New', monospace;
-}
-
 svg {
   display: block;
   vertical-align: middle;
   shape-rendering: auto;
   text-rendering: optimizeLegibility;
-}
-
-.shadow {
-  box-shadow: 0 0 #0000, 0 0 #0000, 0 10px 15px -3px rgba(0, 0, 0, 0.1),
-    0 4px 6px -2px rgba(0, 0, 0, 0.05);
-}
-
-.rounded {
-  border-radius: 1.5rem;
-}
-
-.wrapper {
-  width: 100%;
 }
 
 .container {
