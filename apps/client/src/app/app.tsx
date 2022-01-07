@@ -1,12 +1,9 @@
 import styles from './app.module.css';
-import NxWelcome from './nx-welcome';
+import Home from './Home';
 
 export function App() {
   return (
-    <>
-      <NxWelcome title="client" />
-      <div />
-    </>
+    <Home />
   );
 }
 
